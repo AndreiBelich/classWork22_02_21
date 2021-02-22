@@ -1,34 +1,13 @@
-.main-article {
-  font-size: 1.3em;
-  color: brown;
-  border: 3px solid red;
-}
-
-.article-header {
-
-}
-
-.article-content {
-
-}
-
-.page-link {
-  text-decoration: line-through;
-  color: inherit;
-}
-
-.image{
-  border: 3px solid green;
-  width: 150px;
-  padding: 10px;
-  margin: 25px;
+.wrapper{
+  width: 500px;
+  height: 480px;
+  border: 5px solid red;
   box-sizing: border-box;
 }
 
-.span-content{
+.inner{
   width: 50%;
-  padding: 10px;
-  margin: 50px;
-  display: block;
-  background-color:aqua;
+  height: 50%;
+  background-color: orange;
+  padding: 10%;
 }
