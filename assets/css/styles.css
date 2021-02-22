@@ -5,14 +5,22 @@
 }
 
 .article-header {
-  border: inherit;
+
 }
 
 .article-content {
-  font-size: initial;
+
 }
 
 .page-link {
   text-decoration: line-through;
   color: inherit;
+}
+
+.image{
+  border: 3px solid green;
+  width: 400px;
+  padding: 10px;
+  margin: 25px;
+  box-sizing: border-box;
 }
