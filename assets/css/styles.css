@@ -19,8 +19,16 @@
 
 .image{
   border: 3px solid green;
-  width: 400px;
+  width: 150px;
   padding: 10px;
   margin: 25px;
   box-sizing: border-box;
+}
+
+.span-content{
+  width: 50%;
+  padding: 10px;
+  margin: 50px;
+  display: block;
+  background-color:aqua;
 }
