@@ -1,0 +1,18 @@
+.main-article {
+  font-size: 1.3em;
+  color: brown;
+  border: 3px solid red;
+}
+
+.article-header {
+  border: inherit;
+}
+
+.article-content {
+  font-size: initial;
+}
+
+.page-link {
+  text-decoration: line-through;
+  color: inherit;
+}
